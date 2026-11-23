@@ -1,5 +1,7 @@
 # Impeccable 速查表 | Impeccable Cheatsheet | Guía rápida de Impeccable
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 > 一页看懂 Impeccable：给编程 agent 装上的一套「设计词汇表」——你不再只能含糊地说「弄好看一点」，而是能下达 polish、bolder、critique、audit 这类精确指令，每条指令背后都是一份写好的操作手册；外加一个不靠大模型、纯规则的「AI 味」检测器，在出货前把模板脸拦下来。
 
 - 上游项目：[pbakaus/impeccable](https://github.com/pbakaus/impeccable)（2026-10-31 实测 98,160 ★ / 5,787 forks，93 个 release，Apache-2.0）
